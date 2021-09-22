@@ -1,4 +1,4 @@
-Breuil_Alexandre_Info1b_Private_Property_Manager
+Private Property Manager (PPM)
 
 Une application pour manager les propriétées immobilierre de personne
 
